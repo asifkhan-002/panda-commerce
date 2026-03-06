@@ -20,3 +20,43 @@
 .carousel-item{
     padding: 20px 40px;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}   
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height:300px ;
+}
+#subscribe h6{
+    color: gray;
+}
+footer p{
+    text-align: center;
+    color: dimgray;
+    font-size: 13px;
+}
